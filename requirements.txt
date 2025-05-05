@@ -1,0 +1,5 @@
+cvzone==1.6.1
+streamlit==1.44.1
+google-generativeai==0.8.5
+Pillow>=10.0.0
+opencv-python-headless

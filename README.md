@@ -17,7 +17,7 @@ This project is an interactive AI-powered application using a webcam to recogniz
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/WazDevZm/ZedMathAI.git
+    git clone https://github.com/Alamin0x01/AlaminMathAI.git
     cd your-repo-name
     ```
 
@@ -37,7 +37,7 @@ This project is an interactive AI-powered application using a webcam to recogniz
    - Add your Google Generative AI API key where `genai.configure(api_key="YOUR_API_KEY")` appears in the code.
 
 5. **Place the Hand Detection Image**:
-   - Ensure `Zed Math AI.png` is in the project directory, or replace with a suitable image path.
+   - Ensure `Alamin Math AI.png` is in the project directory, or replace with a suitable image path.
 
 ## Libraries Required
 
