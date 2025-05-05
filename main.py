@@ -95,4 +95,3 @@ while True:
         output_text_area.text(output_text)
 
     cv2.waitKey(1)
-# refined code
